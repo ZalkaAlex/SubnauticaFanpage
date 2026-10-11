@@ -1,0 +1,53 @@
+        body {
+            background-color: rgb(37, 150, 190)
+        }
+
+        .nagy-meretu-betu {
+            font-size: 100px;
+        }
+
+        .kozepre-igazitott {
+            text-align: center;
+        }
+
+        .bekezdes-betu-merete {
+            font-size: 35px;
+        }
+
+        .kozepre-igazitott {
+            text-align: center;
+        }
+
+        .kicsi-meret {
+            font-size: 29px;
+        }
+
+        .balra-igazitott {
+            text-align: left;
+        }
+
+        .jobbra-igazitott {
+            text-align: right;
+        }
+
+        .ures-ter-fentrol {
+            margin-top: 115px;
+        }
+
+        .ures-ter-alulrol {
+            margin-bottom: 115px;
+        }
+
+        .alap-szin {
+            color: rgb(126, 194, 218)
+        }
+
+        table, th, td {
+            border-style: solid;
+            border-width: 3px;
+            border-color: rgb(12, 44, 133);
+        }
+
+        .kozepes-meret {
+            font-size: 52px;
+        }
