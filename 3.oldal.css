@@ -1,0 +1,25 @@
+ body {
+      background-image: url("https://preview.redd.it/my-created-pda-wallpaper-templates-v0-lh02lur2j67c1.jpg?width=640&crop=smart&auto=webp&s=d1aa1c7de5accb84547c5de4e918230c29352782");
+      background-size: cover;
+}
+
+h2 {
+    text-decoration: underline;
+    font-size: 50px;
+}
+
+.alap-szin {
+     color: rgb(126, 194, 218)
+}
+
+.bekezdes-betu-merete {
+    font-size: 35px;
+}
+
+.nagy-meretu-betu {
+    font-size: 100px;
+}
+
+p {
+    font-size: 35px;
+}

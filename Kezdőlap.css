@@ -1,5 +1,6 @@
         body {
-            background-color: rgb(37, 150, 190)
+            background-image: url("https://preview.redd.it/my-created-pda-wallpaper-templates-v0-lh02lur2j67c1.jpg?width=640&crop=smart&auto=webp&s=d1aa1c7de5accb84547c5de4e918230c29352782");
+            background-size: cover;
         }
 
         .nagy-meretu-betu {
@@ -40,6 +41,14 @@
 
         .alap-szin {
             color: rgb(126, 194, 218)
+        }
+
+        span {
+            color: rgb(255, 145, 0);
+        }
+
+        table {
+            text-align: center;
         }
 
         
